@@ -1,0 +1,1 @@
+["vehicle", {_this call itc_arty_fnc_vehicle_changed_handler}, true] call CBA_fnc_addPlayerEventHandler;
